@@ -2,8 +2,12 @@
 
 **Full-Stack Software Engineer | AI/ML and Cloud Enthusiast**
 
-I build intelligent, scalable systems that blend **machine learning** with **robust fullstack engineering** to solve real-world problems.  
-From designing cloud-native APIs and distributed systems to building ML-powered products that drive measurable impact, I love turning complex ideas into production-ready solutions.
+I’m a Full-Stack Software Engineer with 2+ years of experience designing intelligent, scalable systems that merge machine learning with robust backend and frontend engineering. With a MS in CSE (AI/ML) from the University at Buffalo, I specialize in Web Development, Data Structures, Algorithms, Machine Learning, building cloud-native, data-driven applications that turn complex ideas into production-ready solutions.
+
+---
+
+💡 What I do:
+I craft highly performance optimized Backend Software, Distributed systems, and APIs leveraging Python (FastAPI, Flask, Django) and Node.js, architect responsive frontends with React/JavaScript, and deploy containerized microservices on AWS using Docker, Kubernetes, and CI/CD pipelines.
 
 ---
 
@@ -12,7 +16,7 @@ From designing cloud-native APIs and distributed systems to building ML-powered 
 - 🎓 **M.S. in Computer Science (AI/ML)** — University at Buffalo  
 - 🎓 **Bachelor of Technology** — NIT Calicut  
 - Currently: **Software Engineer @ Holiday Channel**  
-- Building **LLM-powered recommendation systems** and **Python-backend recipe scaling tools**.
+- Building **MarketPlace with product recommendations** and **Recipe Sharing platform**.
 -  Passionate about **AI integration in product ecosystems**, **cloud-scale architectures**, and **system optimization**
 
 ---
@@ -30,19 +34,22 @@ From designing cloud-native APIs and distributed systems to building ML-powered 
 
 ## Personal and Academic Projects
 
-## [Digital Image Tampering Detection]
+## Early Lung Disease Detection
+End-to-end ML-based Web application. Built using Deep Learning on X-ray Images - from data preprocessing to model serving. 
+**Stack**  Python, OpenCV, TensorFlow, Flask, Html, Css, Javascript
+**Result:** Achieved 95% precision, accuracy and helped in Diagnosis of critical Diseases in very Early-stages.
+**Publication** Published in the IEEE website
+
+## Recommendation System
+Built an intelligent recommendation engine combining content-based and collaborative filtering to deliver personalized suggestions in real-time. 
+**Stack** Python, Numpy, Pandas, Data Analysis, Machine Learning, Flask, Web Development
+**Result:** Optimized similarity computations and caching for 85%+ accuracy and sub-second latency.
+
+## Digital Image Tampering Detection
 Built a deep-learning pipeline to verify image authenticity using CNNs and metadata forensics.  
-**Stack:** Python, OpenCV, TensorFlow | **Result:** 97% accuracy on test set
+**Stack:** Python, OpenCV, TensorFlow | **Result:** 90%+ accuracy on test set
 
-## [Diabetes Prediction App]
-End-to-end ML web app deployed on AWS — from data preprocessing to model serving.  
-**Result:** Achieved 92% precision and automated health insight generation.
-
-## [Recommendation System]
-Implemented collaborative + content-based filtering with FastAPI backend for personalized item suggestions.  
-**Result:** Delivered 18% improvement in engagement metrics.
-
-## [Panorama Stitching & Background Removal]
+## Panorama Stitching & Background Removal
 Advanced image processing using LoFTR, DISK, and RANSAC-based homography.  
 **Result:** Seamless alignment for 4K resolution images with 99% accuracy.
 
@@ -57,12 +64,7 @@ What I Build
 
 ---
 
-Impact Highlights
 
--  Improved backend throughput by **30%** through microservice refactoring and caching  
--  Reduced AWS infrastructure costs by **15%** with parallel processing and resource optimization  
--  Led integration of LLM-powered product recommendation engine driving **+20% retention**  
--  Mentored peers on debugging, system design, and AI-driven product thinking
 
 ---
 
