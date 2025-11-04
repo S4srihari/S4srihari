@@ -84,7 +84,7 @@ Habits/ Interests outside Software Engineering
 
 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/s4srihari)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/srihari-ponakala)  
 - ✉️ Reach me at: `ponakalasri13@gmail.com`  
 
 ---
