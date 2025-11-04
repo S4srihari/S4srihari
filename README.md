@@ -27,8 +27,9 @@ I craft highly performance optimized Backend Software, Distributed systems, and 
 **Frameworks:** FastAPI, Flask, Django, React, Node.js, Spring Boot  
 **Machine Learning / AI:** Scikit-learn, PyTorch, TensorFlow, OpenCV, Transformers  
 **Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda, DynamoDB), Docker, Kubernetes, CI/CD, GitHub Actions  
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis  
-**Other:** REST APIs, Microservices, Data Pipelines, Caching, System Design  
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis
+**Data Visualization:** Tableau, PowerBI, MatplotLib, MS Excel
+**System Architecture:** REST APIs, Microservices, Data Pipelines, Caching, System Design  
 
 ---
 
