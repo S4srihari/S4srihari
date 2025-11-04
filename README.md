@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer | AI/ML and Cloud Enthusiast**
 
-I build intelligent, scalable systems that blend **machine learning** with **robust backend engineering** to solve real-world problems.  
+I build intelligent, scalable systems that blend **machine learning** with **robust fullstack engineering** to solve real-world problems.  
 From designing cloud-native APIs and distributed systems to building ML-powered products that drive measurable impact, I love turning complex ideas into production-ready solutions.
 
 ---
