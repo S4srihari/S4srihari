@@ -77,7 +77,7 @@ What I Build
 
 Habits/ Interests outside Software Engineering
 
-🏀 Basketball, Volleyball & ⚽ Soccer Player | Problem solver on LeetCode | 🌐 Constant learner exploring system design, AI ethics, and generative models.
+🏀 Basketball, Volleyball & ⚽ Soccer Player | Problem solving on LeetCode | 🌐 Constant learner exploring system design, AI, and generative models.
 
 ---
 
