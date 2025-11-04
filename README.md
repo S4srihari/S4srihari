@@ -37,16 +37,16 @@ I craft highly performance optimized Backend Software, Distributed systems, and 
 ## Early Lung Disease Detection
 End-to-end ML-based Web application. Built using Deep Learning on X-ray Images - from data preprocessing to model serving. 
 
-**Stack**  Python, OpenCV, TensorFlow, Flask, Html, Css, Javascript
+**Stack:**  Python, OpenCV, TensorFlow, Flask, Html, Css, Javascript
 
 **Result:** Achieved 95% precision, accuracy and helped in Diagnosis of critical Diseases in very Early-stages.
 
-**Publication** Published in the IEEE website
+**Publication-** Published in the IEEE website
 
 ## Recommendation System
 Built an intelligent recommendation engine combining content-based and collaborative filtering to deliver personalized suggestions in real-time.
 
-**Stack** Python, Numpy, Pandas, Data Analysis, Machine Learning, Flask, Web Development
+**Stack:** Python, Numpy, Pandas, Data Analysis, Machine Learning, Flask, Web Development
 
 **Result:** Optimized similarity computations and caching for 85%+ accuracy and sub-second latency.
 
