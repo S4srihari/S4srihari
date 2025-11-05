@@ -1,23 +1,32 @@
-# 👋 Hi, I'm Srihari Ponakala
+# 👋 Hello, I'm Srihari Ponakala
 
 **Full-Stack Software Engineer | AI/ML and Cloud Enthusiast**
 
-I’m a Full-Stack Software Engineer with 2+ years of experience designing intelligent, scalable systems that merge machine learning with robust backend and frontend engineering. With a MS in CSE (AI/ML) from the University at Buffalo, I specialize in Web Development, Data Structures, Algorithms, Machine Learning, building cloud-native, data-driven applications that turn complex ideas into production-ready solutions.
+--> I’m a Full-Stack Software Engineer with hands-on experience in designing intelligent, scalable systems with robust backend and frontend engineering. 
+--> I love creating tech solutions for real world problems and building tools to help people improve daily lives.
+--> I'm always learning new ways to improve myself and to write cleaner, efficient and modern code.
+--> I specialize in Web Development, Data Structures & Algorithms, Machine Learning, building cloud-native, data-driven applications.
+--> I'm open to collaborating on projects with focus on engineering excellence and great learning opportunity.
+--> I’m always looking for help with getting constructive feedback and different perspectives on my code.
 
----
+<h3>How to Reach Me :</h3> 
+<p align="left">
+  <a href="https://www.linkedin.com/in/srihari-ponakala" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ponakalasri13@gmail.com"> 
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-💡 What I do:
-I craft highly performance optimized Backend Software, Distributed systems, and APIs leveraging Python (FastAPI, Flask, Django) and Node.js, architect responsive frontends with React/JavaScript, and deploy containerized microservices on AWS using Docker, Kubernetes, and CI/CD pipelines.
 
----
+## About Me
 
-##  About Me
-
-- 🎓 **M.S. in Computer Science (AI/ML)** — University at Buffalo  
-- 🎓 **Bachelor of Technology** — NIT Calicut  
-- Currently: **Software Engineer @ Holiday Channel**  
-- Building **MarketPlace with product recommendations** and **Recipe Sharing platform**.
--  Passionate about **AI integration in product ecosystems**, **cloud-scale architectures**, and **system optimization**
+- 🎓 **Master's in Computer and Information Science-(AI/ML)** — State University of New York at Buffalo  
+- 🎓 **Bachelor's in ECE-(CSE-AI)** — NIT Calicut  
+- **Working: Software Engineer @ Holiday Channel**  
+- Building: **MarketPlace with product recommendations** and **Recipe Sharing platform**.
+- Passionate about: **AI integration in product ecosystems**, **cloud-scale architectures**, and **system optimization**
 
 ---
 
@@ -134,23 +143,22 @@ What I Build
 
 ---
 
+**Habits & Interests**
 
-
----
-
-Habits/ Interests outside Software Engineering
-
-🏀 Basketball, Volleyball & ⚽ Soccer Player | Problem solving on LeetCode | 🌐 Constant learner exploring system design, AI, and generative models.
+Playing 🏀 Basketball & ⚽ Soccer | Problem solving on LeetCode | 🌐 Constant learner exploring system design, AI, and generative models.
 
 ---
 
-📬 Let's Connect
+📫 **Connect with Me**
+<p align="left">
+  <a href="https://www.linkedin.com/in/srihari-ponakala" target="_blank"> 
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ponakalasri13@gmail.com"> 
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/srihari-ponakala)  
-- ✉️ Reach me at: `ponakalasri13@gmail.com`  
+Thanks for stopping by!! Feel free to explore my repositories and reach out if you have any questions or just want to chat! 😊
 
 ---
-
-> “I don’t just write code — I build systems that learn, adapt, and scale.”
-
-⭐ **Feel free to, consider starring a repo or connecting on LinkedIn!**
