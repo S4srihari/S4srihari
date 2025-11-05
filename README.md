@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer | AI/ML and Cloud Enthusiast**
 
---> I’m a Full-Stack Software Engineer with hands-on experience in designing intelligent, scalable systems with robust backend and frontend engineering. 
+--> I’m a Full-Stack Software Engineer with hands-on experience in designing intelligent, scalable systems with robust backend and frontends. 
 
 --> I love creating tech solutions for real world problems and building tools to help people improve daily lives.
 
