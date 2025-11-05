@@ -2,17 +2,17 @@
 
 **Full-Stack Software Engineer | AI/ML and Cloud Enthusiast**
 
---> I’m a Full-Stack Software Engineer with hands-on experience in designing intelligent, scalable systems with robust backend and frontends. 
+- I’m a Full-Stack Software Engineer with hands-on experience in designing intelligent, scalable systems with robust backend and frontends. 
 
---> I love creating tech solutions for real world problems and building tools to help people improve daily lives.
+- I love creating tech solutions for real world problems and building tools to help people improve daily lives.
 
---> I'm always learning new ways to improve myself and to write cleaner, efficient and modern code.
+- I'm always learning new ways to improve myself and to write cleaner, efficient and modern code.
 
---> I specialize in Web Development, Data Structures & Algorithms, Machine Learning, building cloud-native, data-driven applications.
+- I specialize in Web Development, Data Structures & Algorithms, Machine Learning, building cloud-native, data-driven applications.
 
---> I'm open to collaborating on projects with focus on engineering excellence and great learning opportunity.
+- I'm open to collaborating on projects with focus on engineering excellence and great learning opportunity.
 
---> I’m always looking for help with getting constructive feedback and different perspectives on my code.
+- I’m always looking for help with getting constructive feedback and different perspectives on my code.
 
 <h3>How to Reach Me :</h3> 
 <p align="left">
