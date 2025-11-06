@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Srihari Ponakala
+# Hi There,👋 I'm Srihari Ponakala
 
 **Full-Stack Software Engineer | AI/ML and Cloud Enthusiast**
 
