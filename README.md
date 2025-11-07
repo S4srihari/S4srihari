@@ -76,7 +76,7 @@
     
 -  [**Inventory Management System**](https://github.com/S4srihari/Inventory-Management-Using-CPP-OOPS) — Menu-driven CLI app implementing CRUD operations using OOP principles like encapsulation and composition.
 
--  [**Digital Image Tampering Detection**](https://github.com/S4srihari/ImageTampering-Detection)) — Web-based CNN model for verifying image authenticity and detecting manipulated regions.
+-  [**Digital Image Tampering Detection**](https://github.com/S4srihari/ImageTampering-Detection) — Web-based CNN model for verifying image authenticity and detecting manipulated regions.
   
 -  [**Wordle Game**](https://github.com/S4srihari/Wordle-game) — Browser-based Wordle clone built with vanilla JS and JSON-driven word lists.  
  
