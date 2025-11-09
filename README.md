@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&pause=1000&color=000000&width=600&lines=I'm+Srihari+Ponakala+Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 <br />
 
-**Full-Stack Software Engineer | Building with AI/ML and Cloud**
+**Full-Stack Software Engineer | AI/ML and Cloud | Building, Breaking, and Re-Building Efficiently**
 
 - I love building intelligent, scalable systems and solving real-world problems through technology.
 - Sharpest tools in my Arsenal are Data Structures & Algorithms, Software Development, Machine Learning, Cloud-Native applications.
