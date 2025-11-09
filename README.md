@@ -11,10 +11,7 @@
 
 ##  **Contact**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srihari-ponakala/)   
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/S4srihari)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=About.me&logoColor=white)](https://s4srihari.github.io/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srihari.ponakala@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srihari-ponakala/)   [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/S4srihari)  [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=About.me&logoColor=white)](https://s4srihari.github.io/)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srihari.ponakala@gmail.com)
 
 ## **Stats**
 <div align="center">
