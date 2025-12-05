@@ -13,13 +13,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srihari-ponakala/)   [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/S4srihari)  [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=About.me&logoColor=white)](https://srihari-portfolio-tau.vercel.app/)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srihari.ponakala@gmail.com)
 
-## **Stats**
-<div align="center">
-
-![Srihari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=S4srihari&show_icons=true&theme=radical&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S4srihari&layout=compact&theme=radical&hide_border=true)
-  </div>
-
 
 ## 🧩 **Technical Skills**
 
