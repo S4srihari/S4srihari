@@ -35,7 +35,7 @@
 </p>
 
 ### 🤖 Machine Learning / AI
-<p align="left">### AI & Machine Learning
+<p align="left">
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge&logo=cpu-fill&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
