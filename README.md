@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.Js-6DB33F?style=for-the-badge&logo=Next.Js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
 </p>
 
 ### 🤖 Machine Learning / AI
@@ -61,16 +61,6 @@
 ### 🔧 Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgresL](https://img.shields.io/badge/Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FFCA28?style=for-the-badge&logo=SQLAlchemy&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![redis](https://img.shields.io/badge/redis-4053D6?style=for-the-badge&logo=redis&logoColor=white) 
-
-
-
-## About Me
-
-- 🎓 **Master's in Computer and Information Science-(AI/ML)** — State University of New York at Buffalo  
-- 🎓 **Bachelor's in ECE-(CSE-AI)** — NIT Calicut  
-- **Working: Software Engineer @ Holiday Channel**  
-- Building: **MarketPlace with product recommendations** and **Recipe Sharing platform**.
-- Passionate about: **AI integration in product ecosystems**, **cloud-scale architectures**, and **system optimization**
 
 
 
